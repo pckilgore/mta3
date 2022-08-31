@@ -1,0 +1,8 @@
+version: STSv1
+mode: none
+mx: box.warrant.email
+mx: *.warrant.email
+mx: *.messagingengine.com
+mx: *.pck.email
+mx: pck.email
+max_age: 604800
