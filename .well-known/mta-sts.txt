@@ -3,6 +3,6 @@ mode: none
 mx: box.warrant.email
 mx: *.warrant.email
 mx: *.messagingengine.com
-mx: *.pck.email
-mx: pck.email
+mx: *.pckjd.com
+mx: pckjd.com
 max_age: 604800
