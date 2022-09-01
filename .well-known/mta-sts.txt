@@ -1,8 +1,4 @@
 version: STSv1
-mode: none
-mx: box.warrant.email
-mx: *.warrant.email
+mode: testing
 mx: *.messagingengine.com
-mx: *.pckjd.com
-mx: pckjd.com
 max_age: 604800
